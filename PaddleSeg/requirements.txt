@@ -1,0 +1,15 @@
+pyyaml >= 5.1
+visualdl >= 2.0.0
+opencv-python~=4.6.0.66
+tqdm~=4.64.0
+filelock~=3.7.1
+scipy~=1.7.3
+prettytable
+sklearn~=0.0
+
+numpy~=1.19.3
+scikit-learn~=1.0.2
+requests~=2.28.1
+pillow~=9.2.0
+matplotlib~=3.5.2
+setuptools~=63.2.0

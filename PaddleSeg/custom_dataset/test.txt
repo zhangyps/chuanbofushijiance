@@ -1,0 +1,10 @@
+JPEGImages/xunlian(257).jpg Annotations/xunlian(257).png
+JPEGImages/xunlian(358).jpg Annotations/xunlian(358).png
+JPEGImages/xunlian(479).jpg Annotations/xunlian(479).png
+JPEGImages/xunlian(206).jpg Annotations/xunlian(206).png
+JPEGImages/xunlian(253).jpg Annotations/xunlian(253).png
+JPEGImages/xunlian(102).jpg Annotations/xunlian(102).png
+JPEGImages/xunlian(95).jpg Annotations/xunlian(95).png
+JPEGImages/xunlian(634).jpg Annotations/xunlian(634).png
+JPEGImages/xunlian(665).jpg Annotations/xunlian(665).png
+JPEGImages/xunlian(170).jpg Annotations/xunlian(170).png
